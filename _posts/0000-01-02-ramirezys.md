@@ -2,4 +2,4 @@
 layaut: slide
 title: "welcome to our second slide!"
 ---
-my text
+my text lo que yo quiera
